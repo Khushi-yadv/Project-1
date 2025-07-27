@@ -48,5 +48,5 @@ Each listing has its own detailed page. This makes it ideal for building a real-
 
 ---
 
-## 📁 Folder Structure
+
 
